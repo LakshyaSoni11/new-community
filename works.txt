@@ -5,3 +5,7 @@ then "rm index.lock"to remove the file which is not terminated properly
 to make new branch "got branch branch name"
 
 and to shift our head to that branch "git checkout branchname"
+
+if we make a commit then we should not make it in the main file it should me made in the branch file
+
+
