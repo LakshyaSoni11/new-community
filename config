@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/LakshyaSoni11/class_community.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = normal
+	geometry = 1109x563+32+32 216 255
+[remote "new-origin"]
+	url = https://github.com/LakshyaSoni11/new-community.git
+	fetch = +refs/heads/*:refs/remotes/new-origin/*
