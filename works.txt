@@ -2,3 +2,6 @@ first to resolve this issue "kahi or run ho rha hai properly oternimate nai hua 
 first"cd D:/git/.git"
 then "rm index.lock"to remove the file which is not terminated properly
 
+to make new branch "got branch branch name"
+
+and to shift our head to that branch "git checkout branchname"
