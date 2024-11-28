@@ -1,0 +1,4 @@
+first to resolve this issue "kahi or run ho rha hai properly oternimate nai hua hai to sfor that "
+first"cd D:/git/.git"
+then "rm index.lock"to remove the file which is not terminated properly
+
